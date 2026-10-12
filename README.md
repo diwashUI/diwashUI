@@ -1,21 +1,17 @@
 # diwash writes code
 
-4th-semester CS undergrad in Kathmandu. I learn by shipping — everything below is real, live, and deployed, not tutorial clones.
+I build software the fast way — pick an idea, ship it, learn what broke. Everything below is live and deployed.
 
 ## Shipped
 
-**[Brewmandu Coffee Co.](https://cafe-demo-ov4hjpepg-noobug138-6131s-projects.vercel.app)** — one-page site for a coffee brand: menu, story, hours, WhatsApp ordering.
+**[Morse Player](https://morse-player.vercel.app)** — type anything, hear it in Morse code. Real radio timing via Web Audio, mic input, torch sync. Built in a day.
 
-**[Morse Player](https://morse-player.vercel.app)** — type anything, hear it in Morse code. Real radio timing with the Web Audio API, mic input, camera torch sync. Built in a day.
-
-**[Codebreak](https://github.com/diwashUI/codebreak)** — daily code-breaking puzzle game in Expo + React Native. In progress — this one's headed for the Play Store.
+**[Codebreak](https://github.com/diwashUI/codebreak)** — a daily code-breaking puzzle game in React Native. Currently being built — the Play Store is the goal.
 
 ## Stack
 
 TypeScript · React / Next.js · React Native / Expo · Tailwind CSS · Supabase · Vercel
 
-Learning in public, breaking things regularly.
-
 ---
 
-📸 [@its_aurevya](https://instagram.com/its_aurevya) — DMs open if you run a local business and want a site.
+📸 [@its_aurevya](https://instagram.com/its_aurevya) — DMs open.
