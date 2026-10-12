@@ -1,19 +1,23 @@
-# Hi, I'm diwash 👋
+# diwash writes code
 
-CS undergrad from Kathmandu, Nepal. I learn by building and shipping real projects — websites today, mobile apps next.
+4th-semester CS undergrad in Kathmandu. I learn by shipping — everything below is real, live, and deployed, not tutorial clones.
 
-## 🚀 Projects
+**Currently:** trying to earn my first $25 selling one-page websites to Kathmandu cafes. Rs 4,000 a pop, delivered in 3 days. [Here's the sample I pitch with.](https://cafe-demo-ov4hjpepg-noobug138-6131s-projects.vercel.app)
 
-- **[Brewmandu Coffee Co.](https://cafe-demo-ov4hjpepg-noobug138-6131s-projects.vercel.app)** — one-page business site for a coffee brand: menu, story, hours, WhatsApp ordering. A template I re-skin for local clients.
-- **[Morse Player](https://morse-player.vercel.app)** — text-to-Morse translator with real audio timing (Web Audio API), mic input, and torch flash sync.
-- **[Codebreak](https://github.com/diwashUI/codebreak)** — daily code-breaking puzzle game, built with Expo + React Native. In progress.
+## Shipped
 
-## 🛠️ Stack
+**[Brewmandu Coffee Co.](https://cafe-demo-ov4hjpepg-noobug138-6131s-projects.vercel.app)** — one-page site for a coffee brand: menu, story, hours, WhatsApp ordering. Doubles as my sales deck.
+
+**[Morse Player](https://morse-player.vercel.app)** — type anything, hear it in Morse code. Real radio timing with the Web Audio API, mic input, camera torch sync. Built in a day.
+
+**[Codebreak](https://github.com/diwashUI/codebreak)** — daily code-breaking puzzle game in Expo + React Native. In progress — this one's headed for the Play Store.
+
+## Stack
 
 TypeScript · React / Next.js · React Native / Expo · Tailwind CSS · Supabase · Vercel
 
-## 💼 Open for work
+Learning in public, breaking things regularly.
 
-I build one-page websites for local businesses — menu, location, WhatsApp ordering. Delivered in 3 days. DM me on Instagram.
+---
 
-📸 [@its_aurevya](https://instagram.com/its_aurevya)
+📸 [@its_aurevya](https://instagram.com/its_aurevya) — DMs open if you run a local business and want a site.
